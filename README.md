@@ -1,2 +1,2 @@
-# Pyhton
+# Python
 Codewars python exercises

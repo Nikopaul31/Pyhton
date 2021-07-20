@@ -1,4 +1,5 @@
 # Python
 Codewars python exercises
 
-Run test with python myFunction_test.py
+# Run test with:
+python myFunction_test.py
